@@ -1,0 +1,24 @@
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Domain\obj\Debug\net6.0\ref\Domain.dll

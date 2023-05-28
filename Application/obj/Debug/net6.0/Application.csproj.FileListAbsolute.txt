@@ -1,0 +1,30 @@
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\bin\Debug\net6.0\Application.dll
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.dll
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\jlvde\Desktop\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\bin\Debug\net6.0\Application.dll
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.dll
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\jlvde\Desktop\Nueva carpeta (2)\SaviaTecnicalTest\SaviaTecnicalTest\Application\obj\Debug\net6.0\ref\Application.dll

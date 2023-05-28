@@ -1,0 +1,18 @@
+
+
+Realizar un proyecto con las siguientes características
+•	Desarrollar una API REST con asp.net core 6 o en net framework 4.8  que use mediatr con dos métodos.
+•	Un método get que pasándole un id devuelva un dato.
+•	Un método post que pasándole datos lo inserte en algún sitio (bbdd, redis, litedb, o incluso un repo en memoria) 
+
+La prueba tiene como objetivo valorar los siguientes conocimientos:
+
+Entender CQRS (Entenderlo no es equivalente solo a plasmarlo en un desarrollo)
+Entender DDD/clean architecture
+Saber plasmar los principios SOLID en un desarrollo
+La utilización de algún patrón de diseño o creacional (Si es mi misma prueba, es necesario utilizar el patrón mediator, que entiendan para que sirve)
+Como organizar la estructura del proyecto
+Testing
+Manejo de LinQ
+Conceptos básicos de bases de datos
+ORM EntityFramework
